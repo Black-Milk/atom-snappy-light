@@ -7,7 +7,7 @@ A port of snappy-light syntax theme based on Dayle Rees's SnappyLight textmate t
 ###Installation:
 In the terminal type:
 ```sh
-apm install snappy-light-theme
+apm install atom-snappy-light
 ```
 
 Then go to `Atom > Preferences > Themes` and in the `Syntax Themes` dropdown, select `atom-snappy-light` from the list.
