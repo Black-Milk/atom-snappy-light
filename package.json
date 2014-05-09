@@ -1,0 +1,12 @@
+{
+  "name": "snappy-light",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "A port of snappy-light theme based on Dayle Rees's SnappyLight textmate theme",
+  "repository": "https://github.com/Black-Milk/atom-snappy-light",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
+ 
